@@ -7,4 +7,4 @@ Project Overview:
 
 ● Sales Forecasting: The historical data is leveraged, and time series analysis is applied to generate sales forecasts for the next 15 days. 
 
-● Actionable Insights and Recommendations: The ultimate goal of this project is to deliver valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.(https://github.com/sainirahul91/Super-Store-Sales-Dashboard/assets/110442126/a913dcce-d067-4d58-8d5b-cf478b91b743)
+● Actionable Insights and Recommendations: The ultimate goal of this project is to deliver valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
